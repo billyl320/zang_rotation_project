@@ -1,2 +1,2 @@
-# zang_rotation_project
-Integrated analysis of AR using RNA-seq and CHiP-seq data
+# Zang Lab Research Project for Rotation Student 
+This is an initial project to perform an integrated analysis of AR using RNA-seq and CHiP-seq data.  Each data has it's own associated scripts.  Then, the joint analysis combines some of those results to make further insights. Almost of these analyses can be performed using scripts only.  Only DAVID requires a web interface (https://david.ncifcrf.gov/).  
